@@ -1,0 +1,4 @@
+baseURL = 'https://jarnodesmedt.com/'
+languageCode = 'en-us'
+title = "Jarno De Smedt's personal page"
+theme = 'coming-soon'
